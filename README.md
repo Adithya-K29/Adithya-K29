@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0ea5e9&height=200&section=header&text=Adithya%20K&fontSize=40&fontColor=ffffff"/>
 
-<h1 align="center">Adithya K</h1>
 
 <p align="center">
 Talent Acquisition Specialist | AI-Enabled Hiring | Building Engineering Teams
@@ -27,6 +26,19 @@ Previously hired across organizations like HCLTech, Terralogic and MulticoreWare
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,react,nodejs,python,kubernetes,docker,java,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,go,cpp,dotnet,bash" />
+<img src="https://skillicons.dev/icons?i=nodejs,django" />
+<img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=android,swift" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,git,githubactions" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=selenium" />
+
+
+<img src="https://skillicons.dev/icons?i=python,java,go,cpp,dotnet,bash,nodejs,django,react,angular,js,ts,html,css,android,swift,pytorch,tensorflow,aws,azure,gcp,kubernetes,docker,linux,git,githubactions,mysql,postgres,mongodb,selenium" />
+
 </p>
 
 ## GitHub Stats
