@@ -24,21 +24,51 @@ Previously hired across organizations like HCLTech, Terralogic and MulticoreWare
 
 ## Domains I Hire For
 
+## Technologies & Domains I Hire For
+
+### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=aws,react,nodejs,python,kubernetes,docker,java,linux" />
-<img src="https://skillicons.dev/icons?i=python,java,go,cpp,dotnet,bash" />
-<img src="https://skillicons.dev/icons?i=nodejs,django" />
-<img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,go,js,ts,bash" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,django,dotnet" />
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular" />
+</p>
+
+### Mobile
+<p>
 <img src="https://skillicons.dev/icons?i=android,swift" />
+</p>
+
+### AI / ML
+<p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+### Cloud
+<p>
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,git,githubactions" />
+</p>
+
+### DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,githubactions" />
+</p>
+
+### Databases
+<p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### Testing
+<p>
 <img src="https://skillicons.dev/icons?i=selenium" />
-
-
-<img src="https://skillicons.dev/icons?i=python,java,go,cpp,dotnet,bash,nodejs,django,react,angular,js,ts,html,css,android,swift,pytorch,tensorflow,aws,azure,gcp,kubernetes,docker,linux,git,githubactions,mysql,postgres,mongodb,selenium" />
-
 </p>
 
 ## GitHub Stats
